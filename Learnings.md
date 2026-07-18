@@ -12,3 +12,4 @@
 12. npm - node project manager is the app store for everything java script like libraries frameworks etc
 13. HTML -> JS -> React (build interface using components) -> next.js ( to add routing perfomance API routes, easier deployment)
 14. for commands info and how we set up our project and local host refer to notes.
+15. To avoid our page.tsx file becoming extremely long we will make components for different features and page.tsx will just connect them. So component is basically a reuasable piece of a webpage. 
