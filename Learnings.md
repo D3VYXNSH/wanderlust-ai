@@ -13,3 +13,4 @@
 13. HTML -> JS -> React (build interface using components) -> next.js ( to add routing perfomance API routes, easier deployment)
 14. for commands info and how we set up our project and local host refer to notes.
 15. To avoid our page.tsx file becoming extremely long we will make components for different features and page.tsx will just connect them. So component is basically a reuasable piece of a webpage. 
+16. All changes u want to see on http://localhost:3000 just press command + s then see. Also press ctrl + c to close the local host server once done working
